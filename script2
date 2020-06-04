@@ -1,0 +1,4 @@
+#!/bin/bash
+echo $user_var_2020
+tar -cf tora.tar $user_var_2020
+
